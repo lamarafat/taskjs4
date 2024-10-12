@@ -1,0 +1,16 @@
+@import './base.css';
+
+.category {
+    background-color: rgb(255, 245, 209);
+    width: 25%;
+     padding: 20px;
+     box-shadow: 0 4px 8px rgb(0, 0, 0, 0.1);
+     margin: 10px;
+     text-align: center;
+      
+}
+
+
+body{
+    background-color: rgb(255, 255, 218);
+}
